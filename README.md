@@ -24,7 +24,7 @@ I'm Goldi Kumari, a developer with a passion for technology and innovation. I of
 
 ## 📫 Contact Me
 - **Email**: [goldikumari107@gmail.com](mailto:goldikumari107@gmail.com)
-- **LinkedIn**: [Goldi-Kumari](https://www.linkedin.com/in/Goldi-Kumari)
+- **LinkedIn**: [Goldi-Kumari](https://www.linkedin.com/in/Goldi504)
 
 Feel free to reach out for collaborations, project inquiries, or just to connect!
 
