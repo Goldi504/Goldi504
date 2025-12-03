@@ -1,4 +1,8 @@
 # I'm Goldi  👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldi504)](https://github.com/Goldi504/github-readme-stats)
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Goldi504&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
 
