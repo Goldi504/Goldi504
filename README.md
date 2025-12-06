@@ -66,4 +66,4 @@ Feel free to reach out for collaborations, project inquiries, or just to connect
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="wave footer"/>
 </p>
 
-![](https://leetcard.jacoblin.cool/Goldi504?ext=heatmap)
+![](https://leetcard.jacoblin.cool/Goldi Kumari?ext=heatmap)
