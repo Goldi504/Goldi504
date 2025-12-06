@@ -1,7 +1,7 @@
 # Goldi Kumari
 
 
-![Banner](./banner.png)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+There+%F0%9F%91%8B;I'm+Goldi+Kumari;Full-Stack+Learner+%7C+Backend+Explorer;Passionate+About+Modern+Web+Development" alt="typing header"/>
