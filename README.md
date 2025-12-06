@@ -22,9 +22,13 @@ I'm Goldi Kumari, a developer with a passion for technology and innovation. I of
 
 ## 🛠 Skills and Technologies
 
-- *Programming Languages*: HTML, CSS, C/C++, JavaScript, java (currently learning)
-- *Frameworks*: Bootstrap
-- *Tools and Platforms*: Git, GitHub
+- *Programming Languages*: HTML, CSS , C/C++, JavaScript, React.Js, Redux/Context API , React Router, Node.Js, Express.Js, MongoDB Atlas , MongoDB , SQL , Authentication (JWT, bcry) ,Middleware , java 
+- *Frameworks*: Bootstrap , Tailwind CSS
+- *Tools and Platforms*: Git, GitHub ,VS Code
+- Deployment : Render , Vercel , Netlify
+✨ Soft Skills (optional but good to include)
+ - DSA Problem Solving
+ - Debugging
 
 ---
 
