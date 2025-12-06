@@ -26,6 +26,7 @@ I'm Goldi Kumari, a developer with a passion for technology and innovation. I of
 - *Frameworks*:- Bootstrap , Tailwind CSS
 - *Tools and Platforms*:- Git, GitHub , VS Code
 - Deployment*:- Render , Vercel , Netlify
+- 
 ✨ Soft Skills (optional but good to include)
  - DSA Problem Solving
  - Debugging
