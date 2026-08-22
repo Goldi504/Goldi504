@@ -1,6 +1,6 @@
 # Goldi Kumari
 <p align="center">
-  <img src="https://github.com/Goldi504/Goldi504/blob/main/banner.png" alt="Banner" />
+  <img src="./banner.png" alt="Goldi Kumari - MERN Stack Developer" width="100%" />
 </p>
 
 
