@@ -335,18 +335,33 @@ My goal is to become a strong **Full Stack Developer** capable of building scala
 
 ---
 
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goldi504&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Goldi's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Goldi504&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Goldi Kumari GitHub Statistics"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldi504&layout=compact&hide_border=true&theme=tokyonight" alt="Goldi's Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldi504&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Goldi Kumari Top Languages"
+  />
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=Goldi504&theme=tokyonight&hide_border=true" alt="Goldi's GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Goldi504&theme=tokyonight&hide_border=true"
+    alt="Goldi Kumari GitHub Streak"
+  />
 </p>
 
 ---
@@ -354,7 +369,10 @@ My goal is to become a strong **Full Stack Developer** capable of building scala
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Goldi504&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Goldi504&theme=tokyo-night&hide_border=true"
+    alt="Goldi Kumari Contribution Graph"
+  />
 </p>
 
 ---
