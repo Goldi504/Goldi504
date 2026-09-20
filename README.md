@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Goldi Kumari
 
 <p align="center">
-  <img src="./banner.png" alt="Goldi Kumari - MERN Stack Developer" width="100%" />
+  <img src="./banner1.png" alt="Goldi Kumari - MERN Stack Developer" width="100%" />
 </p>
 
 <p align="center">
