@@ -30,9 +30,16 @@ I enjoy turning ideas into practical software solutions and continuously improvi
 
 ### 🎓 Education
 
-* 🎓 **B.Tech — Computer Science & Engineering**
+* 🎓 Pursuing **BTech in Computer Science & Engineering**
 * 🏫 Oriental Institute of Science and Technology, Bhopal
 * 📚 **Diploma — Computer Science & Engineering**
+- 💻 Full Stack Developer specializing in the **MERN Stack**
+- 🚀 Interested in **Web Development & Artificial Intelligence**
+- 🤖 Building applications that integrate **AI into real-world solutions**
+- 🌱 Currently improving my skills in **Full Stack Development, AI and System Design**
+- 🔥 Interested in creating practical and impactful software projects
+- 💡 Love solving problems and learning new technologies
+- 🎯 Goal: Become a strong **Full Stack Developer** and build scalable applications
 
 ### 💡 What I Do
 
