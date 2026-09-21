@@ -37,11 +37,6 @@ I enjoy turning ideas into practical software solutions and continuously improvi
 * 🎨 Responsive UI implementation from Figma designs
 * 🚀 Deployment and production-ready application development
 * ---
-
-# 🛠️ Tech Stack
-
-## 💻 Programming Languages
-
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
@@ -53,7 +48,6 @@ I enjoy turning ideas into practical software solutions and continuously improvi
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### ⚙️ Backend
 
