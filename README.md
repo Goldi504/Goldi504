@@ -139,28 +139,6 @@ An AI-powered e-learning and testing platform designed for exam preparation and 
 
 ---
 
-## 🎨 Figma-to-HTML Responsive Website
-
-A responsive website implementation based on Figma designs with a strong focus on layout accuracy, spacing, typography and responsive behavior.
-
-### Focus Areas
-
-* Pixel-accurate UI implementation
-* Responsive desktop design
-* Tablet responsiveness
-* Mobile responsiveness
-* Navigation layouts
-* Hero sections
-* Vector/image positioning
-* Responsive typography
-* Clean HTML/CSS/JavaScript
-
-### Technology
-
-`HTML5` `CSS3` `JavaScript` `Figma`
-
----
-
 # 📚 What I'm Currently Learning
 
 I'm continuously improving my skills in:
@@ -194,30 +172,23 @@ I regularly practice:
 
 ---
 
-# 🏆 Development Journey
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Deploy
-  ↓
-Learn Something New
-  ↓
-Build Better Applications
-```
-
 My goal is to become a strong **Full Stack Developer** capable of building scalable web applications and integrating AI into real-world products.
 
 ---
+# 📊 GitHub Analytics
 
----
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Offical-Dhiraj&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+    height="170"
+    alt="Dhiraj Kumar GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offical-Dhiraj&layout=compact&hide_border=true&theme=tokyonight"
+    height="170"
+    alt="Dhiraj Kumar most used programming languages"
+  />
+</p>
 # 🔥 GitHub Streak
 
 <p align="center">
