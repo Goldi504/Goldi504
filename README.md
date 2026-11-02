@@ -175,30 +175,50 @@ I regularly practice:
 My goal is to become a strong **Full Stack Developer** capable of building scalable web applications and integrating AI into real-world products.
 
 ---
+
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Offical-Dhiraj&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
-    height="170"
-    alt="Goldi Kumari GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offical-Dhiraj&layout=compact&hide_border=true&theme=tokyonight"
-    height="170"
-    alt="Goldi Kumari most used programming languages"
-  />
-</p>
-# 🔥 GitHub Streak
+### 📈 Contribution Graph
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Goldi504&theme=tokyonight&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Goldi504&theme=tokyo-night&hide_border=true&area=true"
+    width="65%"
+    alt="Goldi Kumari Contribution Graph"
+  />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Goldi504&theme=tokyonight&hide_border=true"
+    width="60%"
     alt="Goldi Kumari GitHub Streak"
   />
 </p>
 
 ---
+
+### 💻 GitHub Statistics & Top Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Goldi504&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="49%"
+    alt="Goldi Kumari GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldi504&layout=compact&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="Goldi Kumari Most Used Languages"
+  />
+</p>
+
+---
+
 
 # 📫 Let's Connect
 
