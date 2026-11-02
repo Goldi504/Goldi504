@@ -181,12 +181,12 @@ My goal is to become a strong **Full Stack Developer** capable of building scala
   <img
     src="https://github-readme-stats.vercel.app/api?username=Offical-Dhiraj&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
     height="170"
-    alt="Dhiraj Kumar GitHub statistics"
+    alt="Goldi Kumari GitHub statistics"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offical-Dhiraj&layout=compact&hide_border=true&theme=tokyonight"
     height="170"
-    alt="Dhiraj Kumar most used programming languages"
+    alt="Goldi Kumari most used programming languages"
   />
 </p>
 # 🔥 GitHub Streak
